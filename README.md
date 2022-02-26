@@ -39,7 +39,7 @@ Para las prácticas de esta semana se vio el siguiente caso
 
 [Link en formato pdf]()
 
-![Drag Racing]()
+![Drag Racing](https://raw.githubusercontent.com/ChristianDeM/Entrega-1-Intro-HTML-FrontEnd-Mision/main/buyer%20persona/pic1.png)
 
 ## publico objetivo 
 
