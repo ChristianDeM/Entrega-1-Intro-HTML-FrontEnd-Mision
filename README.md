@@ -45,7 +45,7 @@ Para las prácticas de esta semana se vio el siguiente caso
 
 ![Drag Racing]()
 
-## Wireframe
+## Wireframe UX
 
 [Link de la carpeta de los bocetos ](https://github.com/ChristianDeM/Entrega-1-Intro-HTML-FrontEnd-Mision/blob/main/UX/UX.md)
 
