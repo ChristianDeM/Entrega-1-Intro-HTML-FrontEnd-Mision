@@ -33,7 +33,7 @@ Para las prácticas de esta semana se vio el siguiente caso
  
 ## Toma de requerimientos. 
 
-[Link del doc]()
+[Link del doc](https://github.com/ChristianDeM/Entrega-1-Intro-HTML-FrontEnd-Mision/blob/main/1.-Reqierimientos.doc)
 
 ## Buyer Persona
 
