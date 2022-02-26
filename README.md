@@ -47,7 +47,7 @@ Para las prácticas de esta semana se vio el siguiente caso
 
 ## Wireframe
 
-[Link de la carpeta de los bocetos ]()
+[Link de la carpeta de los bocetos ](https://github.com/ChristianDeM/Entrega-1-Intro-HTML-FrontEnd-Mision/blob/main/UX/UX.md)
 
 ##  Interfaz de usuario
 
