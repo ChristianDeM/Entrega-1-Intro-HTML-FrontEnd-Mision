@@ -27,12 +27,31 @@ Para las prácticas de esta semana se vio el siguiente caso
 
 * Al usuario le llegan correos de notificación para saber el avance de su proceso.
 
-*La página debe de ser responsive para poderla ver desde el celular.
+* La página debe de ser responsive para poderla ver desde el celular.
 
-b
-*La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+* La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
  
- ### Toma de requerimientos. 
+## Toma de requerimientos. 
 
 [Link del doc]()
+
+## Buyer Persona
+
+[Link en formato pdf]()
+
+![Drag Racing]()
+
+## publico objetivo 
+
+![Drag Racing]()
+
+## Wireframe
+
+[Link de la carpeta de los bocetos ]()
+
+##  Interfaz de usuario
+
+Se realizo un maqueta basica con bootrap
+
+[Link de la carpeta de la pagina con capturas ]()
 
