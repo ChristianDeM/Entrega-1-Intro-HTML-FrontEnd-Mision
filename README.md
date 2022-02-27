@@ -43,7 +43,7 @@ Para las prácticas de esta semana se vio el siguiente caso
 
 ## publico objetivo 
 
-![Drag Racing]()
+![Drag Racing](https://raw.githubusercontent.com/ChristianDeM/Entrega-1-Intro-HTML-FrontEnd-Mision/main/publico%20objetivo/Target%20Audience%20Template.jpg)
 
 ## Wireframe UX
 
