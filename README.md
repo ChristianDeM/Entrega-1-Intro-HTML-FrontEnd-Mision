@@ -53,5 +53,5 @@ Para las prácticas de esta semana se vio el siguiente caso
 
 Se realizo un maqueta basica con bootrap
 
-[Link de la carpeta de la pagina con capturas ]()
+[Link de la carpeta de la pagina con capturas ](https://github.com/ChristianDeM/Entrega-1-Intro-HTML-FrontEnd-Mision/blob/main/UI/UI.md)
 
