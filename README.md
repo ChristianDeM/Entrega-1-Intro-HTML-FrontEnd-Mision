@@ -3,10 +3,10 @@
 
 
 
-* [Toma de requerimientos]()
-* [Buyer Persona]()
-* [Público objetivo]()
-* [Interfaz de usuario]()
+* [Toma de requerimientos](https://github.com/ChristianDeM/Entrega-1-Intro-HTML-FrontEnd-Mision/blob/main/1.-Reqierimientos.doc)
+* [Buyer Persona](https://github.com/ChristianDeM/Entrega-1-Intro-HTML-FrontEnd-Mision/tree/main/buyer%20persona)
+* [Público objetivo](https://github.com/ChristianDeM/Entrega-1-Intro-HTML-FrontEnd-Mision/tree/main/publico%20objetivo)
+* [Interfaz de usuario](https://github.com/ChristianDeM/Entrega-1-Intro-HTML-FrontEnd-Mision/blob/main/UI/UI.md)
 
 
 Para las prácticas de esta semana se vio el siguiente caso
